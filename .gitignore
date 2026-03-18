@@ -1,0 +1,30 @@
+﻿# Maven
+target/
+*.jar
+*.war
+.m2/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.classpath
+.project
+.settings/
+
+# Spring Boot
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+*.properties
+
+# OS
+Thumbs.db
